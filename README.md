@@ -78,7 +78,9 @@ Each conversation is stored as a structured document.
 
 ## 🎥 Demo Video
 
-![Demo](assets/demo.gif)
+<p align="center">
+  <img src="assets/demo.gif" width="900">
+</p>
 ---
 
 ## 🚀 Future Enhancements
