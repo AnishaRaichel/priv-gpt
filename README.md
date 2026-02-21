@@ -79,7 +79,7 @@ Each conversation is stored as a structured document.
 ## 🎥 Demo Video
 
 <p align="center">
-  <img src="assets/demo.gif" width="900">
+  <video src="assets/demo.mp4" controls autoplay loop muted></video>
 </p>
 ---
 
