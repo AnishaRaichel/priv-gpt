@@ -78,7 +78,7 @@ Each conversation is stored as a structured document.
 
 ## 🎥 Demo Video
 
-
+![App Demo](demo.gif) 
 ---
 
 ## 🚀 Future Enhancements
